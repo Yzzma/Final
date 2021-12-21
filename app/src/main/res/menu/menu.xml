@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/discover"
+        android:icon="@drawable/discovery"
+        android:title="Discovery" />
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/star"
+        android:title="Favorite" />
+
+    <item
+        android:id="@+id/bag"
+        android:icon="@drawable/_bag___3"
+        android:title="Bag" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/user"
+        android:title="Profile" />
+</menu>
